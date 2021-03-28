@@ -20,28 +20,29 @@ h2 {
 
 
 h3 { 
-    color: #ff5555;
-    font-size: 30px;
-    margin-left: 480px;
-    margin-top: -145px;
+  color: #ff5555;
+  font-size: 30px;
+  margin-left: 480px;
+  margin-top: -145px;
 }
 
 .furniture-bedroom {
-    color: #BF3030;
-    margin-left: 460px;
-    font-size: 20px;
+  color: #BF3030;
+  margin-left: 460px;
+  font-size: 20px;
 }
 
 
 h4 {
-    color: #ff5555;
-    font-size: 30px;
-    margin-left: 1020px;
-    margin-top: -145px;
+  color: #ff5555;
+  font-size: 30px;
+  margin-left: 1020px;
+  margin-top: -145px;
 }
 
 .furniture-bathroom {
-    color: #BF3030;
-    font-size: 20px;
-    margin-left: 1000px;
-}
+  color: #BF3030;
+  font-size: 20px;
+  margin-left: 1000px;
+  margin-top: -20px;
+  }
