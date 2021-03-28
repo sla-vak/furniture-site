@@ -46,3 +46,23 @@ h4 {
   margin-left: 1000px;
   margin-top: -20px;
   }
+
+.container {
+  text-align: center;
+}
+
+.site-footer p {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 20px;
+}
+
+.site-footer {
+  min-width: 550px;
+  background-color: #847462;
+  color: #ffffff;
+}
+
+.site-footer {
+  margin-top: 360px;
+}
