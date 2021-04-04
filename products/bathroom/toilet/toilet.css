@@ -1,0 +1,44 @@
+html {
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-left: 620px;
+}
+
+.h-toilet-1 {
+    margin-left: 52px;
+}
+
+.img-toilet-1 {
+    margin-left: 58px;
+}
+
+.p-toilet-1 {
+    margin-left: 62px;
+}
+
+.buy-toilet-1 {
+    border: none;
+    background-color: yellowgreen;
+    margin-left: 86px;
+}
+
+.h-toilet-2 {
+    margin-left: 1020px;
+    margin-top: -290px;
+}
+
+.img-toilet-2 {
+    margin-left: 1030px;
+}
+
+.p-toilet-2 {
+    margin-left: 1035px;
+}
+
+.buy-toilet-2 {
+    border: none;
+    background-color: yellowgreen;
+    margin-left: 1060px;
+}

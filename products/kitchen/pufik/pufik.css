@@ -1,0 +1,44 @@
+html {
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-left: 620px;
+}
+
+.h-green {
+    margin-left: 48px;
+}
+
+.img-green {
+    margin-left: 56px;
+}
+
+.p-green {
+    margin-left: 32px;
+}
+
+.buy-green {
+    border: none;
+    background-color: greenyellow;
+    margin-left: 78px;
+}
+
+.h-brown {
+    margin-left: 980px;
+    margin-top: -240px;
+}
+
+.img-brown {
+    margin-left: 1020px;
+}
+
+.p-brown {
+    margin-left: 940px;
+}
+
+.buy-brown {
+    border: none;
+    background-color: greenyellow;
+    margin-left: 1050px;
+}

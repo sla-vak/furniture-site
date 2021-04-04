@@ -1,0 +1,44 @@
+html {
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-left: 600px;
+}
+
+.h-blue {
+    margin-left: 56px;
+}
+
+.img-blue {
+    margin-left: 48px;
+}
+
+.p-blue {
+    margin-left: 58px;
+}
+
+.buy-blue {
+    border: none;
+    background-color: greenyellow;
+    margin-left: 74px;
+}
+
+.h-yellow {
+    margin-left: 1040px;
+    margin-top: -300px;
+}
+
+.img-yellow {
+    margin-left: 1050px;
+}
+
+.p-yellow {
+    margin-left: 1040px;
+}
+
+.buy-yellow {
+    margin-left: 1090px;
+    border: none;
+    background-color: rgb(196, 23, 32);
+}

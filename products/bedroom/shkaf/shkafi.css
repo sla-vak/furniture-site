@@ -1,0 +1,44 @@
+html {
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-left: 620px;
+}
+
+.h-shkaf-1 {
+    margin-left: 46px;
+}
+
+.img-shkaf-1 {
+    margin-left: 56px;
+}
+
+.p-shkaf-1 {
+    margin-left: 58px;
+}
+
+.buy-shkaf-1 {
+    border: none;
+    background-color: rgb(196, 23, 32);
+    margin-left: 116px;
+}
+
+.h-shkaf-2 {
+    margin-left: 1020px;
+    margin-top: -340px;
+}
+
+.img-shkaf-2 {
+    margin-left: 980px;
+}
+
+.p-shkaf-2 {
+    margin-left: 1040px;
+}
+
+.buy-shkaf-2 {
+    border: none;
+    background-color: yellowgreen;
+    margin-left: 1080px;
+}

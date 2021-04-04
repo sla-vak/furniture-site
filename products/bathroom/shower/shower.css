@@ -1,0 +1,44 @@
+html {
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-left: 620px; 
+}
+
+.h-shower-1 {
+    margin-left: 48px;
+}
+
+.img-shower-1 {
+    margin-left: 126px;
+}
+
+.p-shower-1 {
+    margin-left: 96px;
+}
+
+.buy-shower-1 {
+    border: none;
+    background-color: yellowgreen;
+    margin-left: 112px;
+}
+
+.h-shower-2 {
+    margin-left: 1020px;
+    margin-top: -300px;
+}
+
+.img-shower-2 {
+    margin-left: 1072px;
+}
+
+.p-shower-2 {
+    margin-left: 1086px;
+}
+
+.buy-shower-2 {
+    border: none;
+    background-color: yellowgreen;
+    margin-left: 1104px;
+}

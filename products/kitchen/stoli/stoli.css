@@ -1,0 +1,44 @@
+html {
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-left: 620px;
+}
+
+.h-white {
+    margin-left: 78px;
+}
+
+.img-white {
+    margin-left: 55px;
+}
+
+.p-white {
+    margin-left: 62px;
+}
+
+.buy-white {
+    border: none;
+    background-color: greenyellow;
+    margin-left: 88px;
+}
+
+.h-black {
+    margin-left: 1040px;
+    margin-top: -280px;
+}
+
+.img-black {
+    margin-left: 1020px;
+}
+
+.p-black {
+    margin-left: 1040px;
+}
+
+.buy-black {
+    border: none;
+    background-color: greenyellow;
+    margin-left: 1070px;
+}

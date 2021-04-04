@@ -1,0 +1,44 @@
+html {
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-left: 620px;
+}
+
+.h-bed-1 {
+    margin-left: 56px;
+}
+
+.img-bed-1 {
+    margin-left: 32px;
+}
+
+.p-bed-1 {
+    margin-left: 64px;
+}
+
+.buy-bed-1 {
+    border: none;
+    margin-left: 108px;
+    background-color: greenyellow;
+}
+
+.h-bed-2 {
+    margin-left: 1020px;
+    margin-top: -280px;
+}
+
+.img-bed-2 {
+    margin-left: 1040px;
+}
+
+.p-bed-2 {
+    margin-left: 1000px;
+}
+
+.buy-bed-2 {
+    border: none;
+    background-color: greenyellow;
+    margin-left: 1100px;
+}
