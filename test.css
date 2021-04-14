@@ -64,7 +64,10 @@ h4 {
 }
 
 .site-footer {
+  margin-left: -8px;
   margin-top: 360px;
+  width: 1366px;
+  height: 53px;
 }
 
 a {
@@ -72,5 +75,6 @@ a {
 }
 
 .promo {
-  color: #ffffff;
+  color: #d3cfcf;
+  text-align: center;
 }
